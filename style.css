@@ -1,0 +1,55 @@
+body {
+    background: rgb(235, 193, 178);
+    font-family: 'Josefin Sans', sans-serif;
+}
+header {
+    font-size: 50px;
+    text-decoration: underline;
+    padding: 30px 0px 0px 15px;
+}
+section img {
+    padding: 30px 50px 0px 0px;
+    float: right;
+    width: 120px;
+    height: 120px;
+    top: 0px;
+    right: 0px;
+}
+footer {
+    padding: 250px 0px 10px 230px;
+    position: absolute;
+    margin: auto;
+    float: center;
+}
+.postal {
+    background: rgb(245, 223, 215);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    
+}
+.postal p {
+    padding: 30px 0px 0px 15px;
+    float: left;
+    width: 50%;
+}
+.right {
+    float: right;
+    padding: 0px 30px 0px 0px;
+    top: 90px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(204, 53, 27);
+}
+a:hover {
+    background-color: rgb(138, 35, 18) ;
+}
+aside {
+    float: right;
+    padding: 30px;
+}
